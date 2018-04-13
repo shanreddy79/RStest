@@ -13,7 +13,7 @@
 
 ### About the Framework
 
-Manual Test scenario's can be found in feature file:
+Automation Test scenario's can be found in feature file:
  src/test/resources/features/Automation_HomePage.feature
 
 ### Running Automation Tests
